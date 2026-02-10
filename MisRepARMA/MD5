@@ -1,0 +1,12 @@
+26f0e2c33b1342ccf240997dae0f4dd0 *DESCRIPTION
+4cfbf69cfbc8878961815cde02d639f1 *NAMESPACE
+d0b9d2d22b09115634012e0af7b841a3 *R/estimate.R
+93dffb22aeaaf6dc75c6e2855141bbb3 *R/fitMisRepARMA.R
+90cc1c1793a3fec5981cf46da0ee8b62 *R/print.summary.fitMisRepARMA.R
+8a5449389668c1ae2233082bd3ffcca8 *R/ran.genf.R
+396f1cb680c552a8bad52f736772036d *R/reconstruct.R
+017e95ae2b184ff8e50bef55daeeea3c *R/summary.fitMisRepARMA.R
+49bb82679126cec077376ff1f4651b3c *man/MisRepARMA-internal.Rd
+db000dfb7b5b238cd79569dca5b4c1dc *man/MisRepARMA-package.Rd
+17039e94ee7844312793fda1b0229d93 *man/fitMisRepARMA.Rd
+21727d1567663138fd02d5a09afe9a2d *man/reconstruct.Rd

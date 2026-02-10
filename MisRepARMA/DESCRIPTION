@@ -1,0 +1,35 @@
+Package: MisRepARMA
+Type: Package
+Title: Misreported Time Series Analysis
+Version: 0.1.0
+Date: 2026-01-27
+Encoding: UTF-8
+Authors@R: c(person(given = "David",
+           family = "Moriña Soler",
+           role = c("aut", "cre"),
+           email = "David.Morina@uab.cat",
+           comment = c(ORCID = "0000-0001-5949-7443")),
+           person(given = "Amanda",
+                  family = "Fernández-Fontelo",
+                  role = c("aut"),
+                  email = "Amanda.Fernandez@uab.cat"),
+           person(given = "Alejandra",
+                  family = "Cabaña",
+                  role = c("aut"),
+                  email = "AnaAlejandra.Cabana@uab.cat"),
+           person(given = "Pedro",
+                  family = "Puig",
+                  role = c("aut"),
+                  email = "Pere.Puig@uab.cat"))
+Maintainer: David Moriña Soler <David.Morina@uab.cat>
+Description: Provides a simple and trustworthy methodology for the analysis of misreported continuous time series. See Moriña, D, Fernández-Fontelo, A, Cabaña, A, Puig P. (2021) <doi:10.1038/s41598-021-02620-5>.
+Depends: R (>= 3.5.0), mixtools, boot, tseries
+License: GPL (>= 2)
+NeedsCompilation: no
+Packaged: 2021-07-14 06:07:21 UTC; dmorina
+Author: David Moriña Soler [aut, cre] (<https://orcid.org/0000-0001-5949-7443>),
+  Amanda Fernández-Fontelo [aut],
+  Alejandra Cabaña [aut],
+  Pedro Puig [aut]
+Repository: CRAN
+Date/Publication: 2021-07-14 07:00:02 UTC

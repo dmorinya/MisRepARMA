@@ -1,0 +1,13 @@
+exportPattern("^[[:alpha:]]+")
+
+S3method(print, summary.fitMisRepARMA)
+S3method(summary, fitMisRepARMA)
+
+importFrom("stats", "AIC", "arima", "coef", "dnorm", "embed", "is.ts",
+             "lm", "sd", "tsp", "var")
+importFrom("utils", "capture.output")
+importFrom("stats", "arima.sim", "rnorm")
+# Import all packages listed as Imports or Depends
+import(
+  mixtools, boot, tseries
+)
